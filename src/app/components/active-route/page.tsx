@@ -6,7 +6,7 @@ import Link from 'next/link';
 
 export const metaData:Metadata = {
     title : "Phinehas tutorial",
-    authors: [{name:"Phinehas Company LTD",url:""}]
+    authors: [{name:"Phinehas Company LTD",url:"/"}]
 }
 
 const navLinks = [

@@ -60,7 +60,7 @@ const Note = () => {
                 <li>+ lower latency</li>
                 <li>+ improved SEO</li>
                 <li>+ direct access to backend resources</li>
-                <li>+ and the ability to secire sensitive data</li>
+                <li>+ and the ability to secure sensitive data</li>
             </ul>
             <p>NB: Opt for client components for data fetching only when its absolutely necessary,
                 such as when real-time update or when the data depends on client-side interactions
